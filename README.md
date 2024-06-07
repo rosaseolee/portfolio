@@ -26,11 +26,18 @@
 -	Provided weekly data reports through **PowerBI** on donation trends across 25 business lines across the bank, creating relevant communications and marketing content for the Employee Giving Campaign and Spark platform, social media graphics, videos, and strategic marketing materials
 
 
+## Hackathon
+### Machine Learning using Python - Toronto Rental Data Analysis 
+[Project Save, Global Learning Case Competition](https://docs.google.com/presentation/d/1gpXpUhPct9ZglXfXevrIga8sKQ17lC7pZH6qmq2e1u0/edit)
+
+Performed exploratory data analysis using Python, the project aimed to foster equitable drug healthcare in Toronto by addressing discrimination, stigma, and promoting inclusivity for marginalized communities through data and treatment system reforms.
+
+
 ## Projects
 ### Machine Learning using Python - Toronto Rental Data Analysis 
 [Project Repo](https://github.com/rosaseolee/portfolio/tree/main/ML_KIJIJI)
 
-Leveraging machine learning using Pythong, the project illuminates the key drivers of rental pricing. The project provides insights to guide real estate professionals, investors, and tenants through the complexities of the market; which helps to inform and proactive decisions in the fast-paced world of real estate. Through data cleaning, linear regression, decision trees, and random forest. 
+Leveraging machine learning using Python, the project illuminates the key drivers of rental pricing. The project provides insights to guide real estate professionals, investors, and tenants through the complexities of the market; which helps to inform and proactive decisions in the fast-paced world of real estate. Through data cleaning, linear regression, decision trees, and random forest. 
 
 ### Machine Learning Classification using Python - Precision and Recall
 [Project Repo](https://github.com/rosaseolee/portfolio/tree/main/Classification_Python)
