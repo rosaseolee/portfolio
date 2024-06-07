@@ -16,8 +16,8 @@
 -	Communication and Compliance: Created communication strategies for Data Ethics frameworks and maintained compliance with policies and regulations.
 
 **Marketing Intern, Integrated Marketing & Content Marketing @ MD Financial Management (_May 2023 - Aug 2023_)**
-- Tracked and analyzed weekly campaign data insights using Google Analytics, writing weekly reports and marketing strategies to optimize campaign
--	Led a platform tagging standardization program to enhance lead nurturing during the consideration phase. Drafted SEO/meta data for content, increasing organic traffic by 10% through improved search visibility and consumption.
+- Tracked and analyzed weekly campaign data insights using **Google Analytics**, writing weekly reports and marketing strategies to optimize campaign
+-	Led a platform tagging standardization program to enhance lead nurturing during the consideration phase. Drafted SEO/meta data for content, **increasing organic traffic by 10%** through improved search visibility and consumption.
 
 **Coordinator, Global Communications and Social Impact, Intern @ Scotiabank (_Jan 2022 - Jan 2023_)**
 -	Recognized as the Best of Best Intern, showcasing exceptional performance and dedication.
