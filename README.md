@@ -27,12 +27,10 @@
 
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Machine Learning using Python - Toronto Rental Data Analysis 
+[Project Repo](https://github.com/rosaseolee/portfolio/tree/main/ML_KIJIJI)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+Leveraging machine learning using Pythong, the project illuminates the key drivers of rental pricing. The project provides insights to guide real estate professionals, investors, and tenants through the complexities of the market; which helps to inform and proactive decisions in the fast-paced world of real estate. Through data cleaning, linear regression, decision trees, and random forest. 
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
