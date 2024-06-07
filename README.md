@@ -15,9 +15,15 @@
 -	Stakeholder Engagement: Developed strong relationships with stakeholders to align with best practices and objectives.
 -	Communication and Compliance: Created communication strategies for Data Ethics frameworks and maintained compliance with policies and regulations.
 
-**Marketing Intern, Integrated Marketing & Content Marketing @ MD Financial Management (_May 2023 - August 2023_)**
+**Marketing Intern, Integrated Marketing & Content Marketing @ MD Financial Management (_May 2023 - Aug 2023_)**
 - Tracked and analyzed weekly campaign data insights using Google Analytics, writing weekly reports and marketing strategies to optimize campaign
 -	Led a platform tagging standardization program to enhance lead nurturing during the consideration phase. Drafted SEO/meta data for content, increasing organic traffic by 10% through improved search visibility and consumption.
+
+**Coordinator, Global Communications and Social Impact, Intern @ Scotiabank (_Jan 2022 - Jan 2023_)**
+-	Recognized as the Best of Best Intern, showcasing exceptional performance and dedication.
+-	Collaborated with 110 Bank Executives, managers, and cross-functional teams to exceed goals in the annual Employee Giving Campaign, raising $12 million dollars, **12% above target**
+-	Participated in bi-weekly Environment, Social Impact, and Governance (ESG) meetings to discuss ESG strategy and ethical risk
+-	Provided weekly data reports through **PowerBI** on donation trends across 25 business lines across the bank, creating relevant communications and marketing content for the Employee Giving Campaign and Spark platform, social media graphics, videos, and strategic marketing materials
 
 
 ## Projects
