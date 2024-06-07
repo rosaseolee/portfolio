@@ -15,9 +15,10 @@
 -	Stakeholder Engagement: Developed strong relationships with stakeholders to align with best practices and objectives.
 -	Communication and Compliance: Created communication strategies for Data Ethics frameworks and maintained compliance with policies and regulations.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Marketing Intern, Integrated Marketing & Content Marketing @ MD Financial Management (_May 2023 - August 2023_)**
+- Tracked and analyzed weekly campaign data insights using Google Analytics, writing weekly reports and marketing strategies to optimize campaign
+-	Led a platform tagging standardization program to enhance lead nurturing during the consideration phase. Drafted SEO/meta data for content, increasing organic traffic by 10% through improved search visibility and consumption.
+
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
