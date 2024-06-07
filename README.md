@@ -32,7 +32,7 @@
 
 Leveraging machine learning using Pythong, the project illuminates the key drivers of rental pricing. The project provides insights to guide real estate professionals, investors, and tenants through the complexities of the market; which helps to inform and proactive decisions in the fast-paced world of real estate. Through data cleaning, linear regression, decision trees, and random forest. 
 
-### Classification using Python - Precision and Recall
+### Machine Learning Classification using Python - Precision and Recall
 [Project Repo](https://github.com/rosaseolee/portfolio/tree/main/Classification_Python)
 
 Used Python to build a machine learning model to predict star ratings for product reviews based on their textual content and additional features. Using a combination of TF-IDF vectorization, sentiment analysis, and numeric feature scaling, the model leverages a Random Forest classifier to achieve this goal. Hyperparameter tuning is performed to optimize the model's performance.
