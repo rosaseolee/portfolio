@@ -8,9 +8,12 @@
 - B.A., English Cultural Studies, East Asian Studies, Communications | McGill University (_April 2023_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Business Analyst, Data & AI Ethics @ Scotiabank (_May 2024 - Present_)**
+- **Implementing Data Ethics Framework**: Enabled adoption of a Global Data Ethics Framework, ensuring alignment with policies.
+-	**Research and Innovation**: Conducted academic Fairness metric research to identify industry developments and provide **Fairness** and **Transparency** recommendations.
+-	Training and Change Management: Led training and change initiatives to implement the Data Ethics framework and associated AI tools.
+-	Stakeholder Engagement: Developed strong relationships with stakeholders to align with best practices and objectives.
+-	Communication and Compliance: Created communication strategies for Data Ethics frameworks and maintained compliance with policies and regulations.
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
