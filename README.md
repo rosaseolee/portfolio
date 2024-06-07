@@ -44,3 +44,6 @@ Leveraging machine learning using Python, the project illuminates the key driver
 
 Used Python to build a machine learning model to predict star ratings for product reviews based on their textual content and additional features. Using a combination of TF-IDF vectorization, sentiment analysis, and numeric feature scaling, the model leverages a Random Forest classifier to achieve this goal. Hyperparameter tuning is performed to optimize the model's performance.
 
+
+## Additional Projects
+[Rosa's Repository](https://github.com/rosaseolee/portfolio)
