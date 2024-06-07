@@ -27,8 +27,8 @@
 
 
 ## Hackathon
-### Machine Learning using Python - Toronto Rental Data Analysis 
-[Project Save, Global Learning Case Competition](https://docs.google.com/presentation/d/1gpXpUhPct9ZglXfXevrIga8sKQ17lC7pZH6qmq2e1u0/edit)
+### Exploratory Data Analysis - Global Learning Case Competition UofT
+[Project Save](https://docs.google.com/presentation/d/1gpXpUhPct9ZglXfXevrIga8sKQ17lC7pZH6qmq2e1u0/edit)
 
 Performed exploratory data analysis using Python, the project aimed to foster equitable drug healthcare in Toronto by addressing discrimination, stigma, and promoting inclusivity for marginalized communities through data and treatment system reforms.
 
