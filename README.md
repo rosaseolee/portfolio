@@ -4,9 +4,8 @@
 
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- M.I., Human Centred Data Science	| McGill University (_April 2025_)	 			        		
+- B.A., English Cultural Studies, East Asian Studies, Communications | McGill University (_April 2023_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
