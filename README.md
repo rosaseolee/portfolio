@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Scientist Passionate about Responsible AI
 
 #### Technical Skills: Python, R, Responsible AI – Data & AI Ethics, , Exploratory Data Analysis, Data Mining, PowerBI, Google Analytics, G-Suite, Microsoft Office Suite, Adobe Suite
 
