@@ -9,11 +9,11 @@
 
 ## Work Experience
 **Business Analyst, Data & AI Ethics @ Scotiabank (_May 2024 - Present_)**
-- **Implementing Data Ethics Framework**: Enabled adoption of a Global Data Ethics Framework, ensuring alignment with policies.
--	**Research and Innovation**: Conducted academic Fairness metric research to identify industry developments and provide **Fairness** and **Transparency** recommendations.
--	Training and Change Management: Led training and change initiatives to implement the Data Ethics framework and associated AI tools.
--	Stakeholder Engagement: Developed strong relationships with stakeholders to align with best practices and objectives.
--	Communication and Compliance: Created communication strategies for Data Ethics frameworks and maintained compliance with policies and regulations.
+- Implementing Data Ethics Framework: Enabled adoption of a Global Data Ethics Framework through data governance, ensuring alignment with policies, conducting regular AI and Data risk assessments
+-	Research and Innovation: Conducted academic Fairness metric research to identify industry developments and provide Fairness and Transparency recommendations
+-	Training and Change Management: Led training and change initiatives to implement Data Ethics framework and associated AI tools, conducting AI/Bias audits and impact assessments in adherence to ethical guidelines
+-	Stakeholder Engagement: Collaborated with multidisciplinary teams and business stakeholders to align with best ethical practices and AI/data initiatives
+-	Communication and Compliance: Created communication strategies for Data Ethics trustworthiness and maintained compliance with policies and regulations.
 
 **Marketing Intern, Integrated Marketing & Content Marketing @ MD Financial Management (_May 2023 - Aug 2023_)**
 - Tracked and analyzed weekly campaign data insights using **Google Analytics**, writing weekly reports and marketing strategies to optimize campaign
